@@ -31,6 +31,10 @@ Following image illustrates the DenseNet model architecture that was utilized in
 ## **Key Findings**  
 Following is the mean relevance map for the HC, AD and bvFTD groups obtained using the LRP relevance propagation method for the trained Densenet model. Coronal slices Y=[117,125,135] in MNI reference space are shown.
 
+<p align="center">
+        <img src="Images/Relevance Map.png" width="700">
+</p>
+
 ---
 
 Our results demonstrate that data augmentation leads to improvements in accuracy, F1-score and AUC. We also see significant improvements not only in fully connected settings but also in ensemble-based models.
