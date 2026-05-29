@@ -23,6 +23,9 @@ To address class imbalance, bvFTD data were initially augmented. A 3D DenseNet w
 We chose to implement 3D-DenseNet Architecture for our study. See [src/models](src/models) for implementation details.  
 Following image illustrates the DenseNet model architecture that was utilized in this study.
 
+<p align="center">
+	<img src="Images/DenseNet.png" width="700">
+</p>
 ---
 
 ## **Key Findings**  
