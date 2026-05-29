@@ -1,0 +1,9 @@
+Tensorflow
+Matplotlib
+Numpy
+Aucmedi
+Scikit-learn
+Nibabel
+OS
+Pandas
+
