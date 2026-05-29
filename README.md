@@ -26,7 +26,7 @@ Following image illustrates the DenseNet model architecture that was utilized in
 <p align="center">
 	<img src="Images/DenseNet.png" width="700">
 </p>
----
+
 
 ## **Key Findings**  
 Following is the mean relevance map for the HC, AD and bvFTD groups obtained using the LRP relevance propagation method for the trained Densenet model. Coronal slices Y=[117,125,135] in MNI reference space are shown.
