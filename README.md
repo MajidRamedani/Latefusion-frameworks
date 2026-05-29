@@ -11,7 +11,7 @@ The corresponding manuscript is currently under review.
 
 ---
 
-**Abstract**  
+## **Abstract**  
 Behavioral variant frontotemporal dementia (bvFTD) is an irreversible neurodegenerative disorder characterized by progressive changes in personality and behavior. However, due to the low prevalence of bvFTD among neurodegenerative diseases causing the dementia syndrome, conventional machine learning approaches may struggle to capture comprehensive feature representations.  
 Therefore, this study proposes two late fusion frameworks that integrate a 3D convolutional neural network and a multilayer perceptron (MLP) for improved bvFTD diagnosis.  
 
@@ -35,7 +35,6 @@ Following is the mean relevance map for the HC, AD and bvFTD groups obtained usi
         <img src="Images/Relevance Map.png" width="700">
 </p>
 
----
 
 Our results demonstrate that data augmentation leads to improvements in accuracy, F1-score and AUC. We also see significant improvements not only in fully connected settings but also in ensemble-based models.
 
