@@ -16,10 +16,10 @@ Performance are shown based on 12 configurations.
 
 ### Volumetric values
 
-Some values for displaying cases are available in 'Volume.csv'.
+Some values for displaying cases are available in [Volume.csv](Volume.csv).
 
 ### Training History
 
-See [Results/model_summary.txt](Results/model_summary.txt) for the complete network architecture.
+See [model_summary.txt](model_summary.txt) for the complete network architecture.
 
 
