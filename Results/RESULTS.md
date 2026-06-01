@@ -20,6 +20,6 @@ Some values for displaying cases are available in 'Volume.csv'.
 
 ### Training History
 
-See "model_summary.txt" for the complete network architecture.
+See [Results/model_summary.txt](Results/model_summary.txt) for the complete network architecture.
 
 
