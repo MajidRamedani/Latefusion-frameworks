@@ -7,11 +7,11 @@ The proposed frameworks were evaluated on MRI scans from three groups:
 Performance are shown based on 12 configurations.
 
 <p align="center">
-	<img src=" Results/Fully_Connected_Strategy.png" width="700"
+	<img src="Fully_Connected_Strategy.png" width="700"
 </p>
 
 <p align="center">
-        <img src=" Results/Ensemble_Based_Strategy.png" width="700"
+        <img src="Ensemble_Based_Strategy.png" width="700"
 </p>
 
 ### Volumetric values
