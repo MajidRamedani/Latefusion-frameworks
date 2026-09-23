@@ -44,5 +44,18 @@ Our results demonstrate that data augmentation leads to improvements in accuracy
 
 ---
 
-## **Citation**  
-Citation information will be updated after publication.
+## Citation
+
+If you use this repository or the PrimUNet model in your research, please cite:
+
+```bibtex
+@ARTICLE{RAMEDANI2026,
+AUTHOR={Ramedani, Majid  and Terli, Jaya C.  and Singh, Devesh  and Peters, Oliver  and Hellmann-Regen, Julian  and Priller, Josef  and Spruth, Eike Jakob  and Spottke, Annika  and Boehlen, Anne  and Weydt, Patrick  and Wüllner, Ullrich  and Dinter, Elisabeth  and Günther, Rene  and Wiltfang, Jens  and Schott, Björn H.  and Düzel, Emrah  and Glanz, Wenzel  and Buerger, Katharina  and Janowitz, Daniel  and Levin, Johannes  and Stockbauer, Anna  and Mladinov, Mihovil  and Prudlo, Johannes  and Hermann, Andreas  and Synofzik, Matthis  and Mengel, David  and Petzold, Gabor C.  and Schneider, Anja  and Lüsebrink, Falk  and Hetzer, Stefan  and Dechent, Peter  and Ewers, Michael  and Scheffler, Klaus  and Stöcklein, Sophia  and Teipel, Stefan  and Dyrba, Martin },      
+TITLE={Hybrid multimodal late fusion frameworks for bvFTD classification in imbalanced dementia datasets},     
+JOURNAL={Frontiers in Aging Neuroscience},     
+VOLUME={Volume 18 - 2026},
+YEAR={2026},
+URL={https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1892568},
+DOI={10.3389/fnagi.2026.1892568},
+ISSN={1663-4365}}
+```
