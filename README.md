@@ -46,7 +46,7 @@ Our results demonstrate that data augmentation leads to improvements in accuracy
 
 ## Citation
 
-If you use this repository or the PrimUNet model in your research, please cite:
+If you use this repository or the model in your research, please cite:
 
 ```bibtex
 @ARTICLE{RAMEDANI2026,
